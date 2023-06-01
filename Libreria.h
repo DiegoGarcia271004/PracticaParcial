@@ -1,0 +1,1 @@
+float Descuento(float precioInicial);
